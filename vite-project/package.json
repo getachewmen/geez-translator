@@ -8,7 +8,9 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "react-scripts start --host 0.0.0.0"
+    "start": "react-scripts start --host 0.0.0.0",
+    "export": "node scripts/exportDictionary.js",
+    "analyze": "node scripts/analyzeDictionary.js"
   },
   "dependencies": {
     "react": "^19.2.0",
