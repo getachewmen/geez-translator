@@ -208,7 +208,7 @@ export default function App() {
   return (
     <div className="container">
       <header>
-        <h1>ግእዝ አቋም → Translation App</h1>
+        <h1>Geez Dictionary</h1>
         <p className="subtitle">Discover the meanings of Geez verbs and learn grammar</p>
       </header>
 
@@ -442,7 +442,7 @@ export default function App() {
       )}
       
       <footer>
-        <p>@2024 Geez Translator. All rights reserved.</p>
+        <p>@2024 Geez Dictionary. All rights reserved.</p>
         <p>Developed by Dn Getachew Menberu</p>
       </footer>
     </div>

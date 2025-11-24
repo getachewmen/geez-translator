@@ -1,4 +1,4 @@
-# ግእዝ አቋም → Geez-Amharic Dictionary App
+# Geez Dictionary
 
 A modern, mobile-optimized web application for translating Geez verbs to Amharic, English, and Oromiffa with grammar guides.
 
